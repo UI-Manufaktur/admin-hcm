@@ -1,1 +1,1 @@
-
+module admins.hcm.views;
